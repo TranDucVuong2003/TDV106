@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TDV106.props" />
+</Project>
